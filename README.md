@@ -10,7 +10,8 @@ This project explores how CTM architectures perform on word recognition tasks un
 
 The framework automatically runs large experiment grids and generates performance comparison plots.
 
-Features
+**Features**
+
 •	Continuous Thought Machine (CTM) architecture
 •	Gammatone-based audio feature representation
 •	Speaker-split dataset evaluation
